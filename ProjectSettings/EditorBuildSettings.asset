@@ -6,8 +6,17 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/VRSample.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/TitleScene.unity
+    guid: b02a5f18a0545d141adb17194b0f1618
+  - enabled: 1
+    path: Assets/Scenes/VR_HandTracking_Pose_Direction_4.unity
+    guid: fb23a53b87862534e810e7348acee27b
+  - enabled: 1
+    path: Assets/Scenes/GameOverScene.unity
+    guid: e1f50cc936001f14a9b41a36ad9c74bc
+  - enabled: 1
+    path: Assets/Scenes/GameClerScene.unity
+    guid: 376873f84e968f443bbb3c43cae9b3d2
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 500bf5856ce33bd4894ad97ff0cf862f,
       type: 2}
